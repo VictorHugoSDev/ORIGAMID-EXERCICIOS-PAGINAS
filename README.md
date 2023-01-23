@@ -1,6 +1,3 @@
-# ORIGAMID-EXERCICIOS-PAGINAS
-Compilado dos Exercícios e Páginas criados durante o curso de FRONT-END do curso da ORIGAMID
-
 #### 1. Exercícios:
 * [Posicionamento com DISPLAY FLEX e DISPLAY GRID - HTML+CSS](https://victorhugosdev.github.io/Exercicio1-Posicionamento-ORIGAMID/)
 * [Refatoração do Exercício 1 - HTML+CSS](https://victorhugosdev.github.io/Exercicio1-Refatorado-ORIGAMID/)
