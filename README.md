@@ -1,3 +1,4 @@
+#theme: Minimal
 # ORIGAMID-EXERCICIOS-PAGINAS
 Compilado dos Exercícios e Páginas criados durante o curso de FRONT-END do curso da ORIGAMID
 
@@ -17,4 +18,3 @@ Compilado dos Exercícios e Páginas criados durante o curso de FRONT-END do cur
 [Site para pesquisa CSS](https://www.w3schools.com/css/default.asp) <br>
 [Site para pesquisa de TAGS](https://developer.mozilla.org/pt-BR/docs/Learn)
 
-#them: Minimal
