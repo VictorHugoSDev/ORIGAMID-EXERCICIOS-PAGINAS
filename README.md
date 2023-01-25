@@ -1,8 +1,8 @@
 #### 1. Exercícios:
 * [Posicionamento com DISPLAY FLEX e DISPLAY GRID - HTML+CSS](https://victorhugosdev.github.io/Exercicio1-Posicionamento-ORIGAMID/)
 * [Refatoração do Exercício 1 - HTML+CSS](https://victorhugosdev.github.io/Exercicio1-Refatorado-ORIGAMID/)
-  (Foram adicionadas as tag HEADER / NAV / ARTICLE / FOOTER, alterado os menus para LISTAS, adicionado HOVER no MENU, BOTÃO e ITEMS, adicionado IMAGEM de BACKGROUND no título 2 e background nos itens IMPARES.)
-* [Responsividade do Exerício 1 - HTML+CSS](https://victorhugosdev.github.io/Exercicio1-Responsivo-ORIGAMID-/)
+  [Foram adicionadas as tag HEADER / NAV / ARTICLE / FOOTER, alterado os menus para LISTAS, adicionado HOVER no MENU, BOTÃO e ITEMS, adicionado IMAGEM de BACKGROUND no título 2 e background nos itens IMPARES.]
+* [Responsividade do Exerício 1 - HTML+CSS](https://victorhugosdev.github.io/Exercicio1-Responsivo-ORIGAMID-/)[Após a refatoração foi adicionado a responsividade, quebra dos conteúdos principais para apenas uma coluna, realianhando os textos]
 
 #### 2. Páginas:
 
